@@ -8,7 +8,7 @@ from healthinsurance import HealthInsurance
 project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
 # Carrega modelo
-model_path = os.path.join(project_root, 'src', 'models', 'model_linear_regression.pkl')
+model_path = os.path.join(project_root, 'src', 'models', 'model_logistic_regression.pkl')
 model = pickle.load(open(model_path, 'rb'))
 
 # Inicializa API
