@@ -1,6 +1,6 @@
 # Propensão de Compras - Projeto de Machine Learning
 Este projeto tem como objetivo prever a propensão de um cliente adquirir um serviço adicional de seguro automotivo,
-utilizando algoritmos de aprendizado de máquina e disponibilizando uma API em Flask hospedada no Heroku.
+utilizando algoritmos de aprendizado de máquina e disponibilizando uma API em Flask.
 
 ## Problema de Negócio
 Empresas de seguros buscam constantemente aumentar suas vendas de serviços adicionais. Com base no histórico de clientes,
