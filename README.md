@@ -62,15 +62,6 @@ Envie uma requisição POST com um JSON contendo os dados dos clientes, por exem
 ]
 ```
 
----
-
-## Deploy no Heroku
-
-A API foi publicada no Heroku e está disponível em:
-
-**https://seuapp.herokuapp.com/heathinsurance/predict**
-
----
 
 ## Diferenciais
 
