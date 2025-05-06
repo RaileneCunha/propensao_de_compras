@@ -76,5 +76,4 @@ Envie uma requisição POST com um JSON contendo os dados dos clientes, por exem
 
 Este projeto representa meus estudos e dedicação prática no uso de técnicas de Machine Learning aplicadas a um problema real.
 Além do desenvolvimento do modelo, também explorei a importância de criar soluções completas, organizadas e integráveis através de uma API.
-Ao hospedar a aplicação na nuvem e estruturar o código de forma clara, este trabalho reflete meu compromisso em aprender e aplicar boas práticas
-desde o início da minha jornada na área de Ciência de Dados.
+Ao estruturar o código de forma clara, este trabalho reflete meu compromisso em aprender e aplicar boas práticas desde o início da minha jornada na área de Ciência de Dados
