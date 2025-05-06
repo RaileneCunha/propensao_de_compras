@@ -67,7 +67,6 @@ Envie uma requisição POST com um JSON contendo os dados dos clientes, por exem
 
 - Pré-processamento modularizado em uma classe reutilizável.
 - Modelo testado e validado com dados reais.
-- API pronta para integração com sistemas externos.
 - Código limpo, organizado e com foco em boas práticas de MLOps.
 
 ---
