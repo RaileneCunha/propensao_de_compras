@@ -20,7 +20,7 @@ este projeto propõe uma solução de classificação binária para identificar 
 
 ° Machine Learning: Engenharia de atributos, tuning de hiperparâmetros  
 
-° Deploy: Heroku (API), GitHub (código e notebooks)  
+°GitHub (código e notebooks)  
 
 ° Teste de API: Postman
 
